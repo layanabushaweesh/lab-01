@@ -5,3 +5,7 @@ body{
     font-weight: bolder;
     font-family: cursive;
 }
+.box {
+    border: black solid 1px;
+    text-align: center;
+}
